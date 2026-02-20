@@ -11,9 +11,9 @@ int main()
     {
 
         // This loop for printing leading whitespaces
-        for (int j = 0; j < 2 * (rows - i) - 1; j++)
+        for (int j = 0; j < rows - i; j++)
         {
-            printf(" ");
+            printf("--");
         }
 
         // This loop for printing * character in each row

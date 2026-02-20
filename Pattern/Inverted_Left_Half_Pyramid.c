@@ -13,7 +13,7 @@ int main()
         // First Inner loop for printing white spaces
         for (int j = 0; j < 2 * i; j++)
         {
-            printf(" ");
+            printf("--");
         }
 
         // Second inner loop for printing star *

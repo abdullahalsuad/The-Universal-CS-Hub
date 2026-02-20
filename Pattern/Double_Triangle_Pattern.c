@@ -20,9 +20,9 @@ int main()
     }
 
     // Lower part
-    for(int i = rows - 1; i >= 1; i--)
+    for(int i = rows - 2; i >= 0; i--)
     {
-        for(int j = 1; j <= i; j++)
+        for(int j = 0; j <= i; j++)
         {
             printf("* ");
             // printf("%d ", j+1);           // 1 12 123
@@ -34,7 +34,6 @@ int main()
 
     return 0;
 }
-
 
 // *           | 1           | A
 // * *         | 1 2         | A B
