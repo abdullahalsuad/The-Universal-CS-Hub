@@ -1,4 +1,4 @@
-# 🔷 C Pattern Programs
+# C Pattern Programs
 
 A collection of **16 classic pattern programs** written in C.
 
