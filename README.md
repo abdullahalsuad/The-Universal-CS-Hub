@@ -1,12 +1,12 @@
-# 🎓 The Universal CS Hub
+# The Universal CS Hub
 
 > **The ultimate survival guide and resource repository for a Computer Science degree. Everything a CS student needs, from first-year programming all the way to advanced core subjects.**
 >
-> 🌍 **100% Open Source** – Built by students, for students.
+> **100% Open Source** – Built by students, for students.
 
 Welcome to the central hub for all CSE / CS subject materials! This repository is designed to be a completely **open-source**, continually growing academic vault where you can find concepts, logic-building explanations, notes, and code implementations for your university courses.
 
-## 📚 Subject Directories
+## Subject Directories
 
 Currently, the repository is starting to populate with first-year core modules, but it will scale up to include all CS subjects:
 
@@ -15,7 +15,7 @@ Currently, the repository is starting to populate with first-year core modules, 
 | [**C Programming (SPL)**](<./C%20Programming%20(SPL)/>) | Structured Programming Language. Fundamentals of programming using C, including deep-dive guides on logic, control flow, loops, and pattern generation. | 🟢 Active  |
 | _(More subjects coming soon...)_                        | Object-Oriented Programming, Data Structures, Algorithms, Databases, etc.                                                                               | ⏳ Pending |
 
-## 🚀 How to Use This Repo
+## How to Use This Repo
 
 This is not just a place to copy-paste code. Inside the subject folders, you will find explicitly written **"Concept Guides"** (like the `Control_Flow_Concepts.md` and `Loop_Concepts.md` inside the C folder).
 
@@ -30,7 +30,7 @@ These guides break down exactly _how_ things work under the hood, _when_ to use 
    cd "C Programming (SPL)"
    ```
 
-## 🤝 Open Source & Contributions
+## Open Source & Contributions
 
 Because this is an **Open Source** repository, educational collaboration is the number one priority! If you are a CS student or graduate:
 
